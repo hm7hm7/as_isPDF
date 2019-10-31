@@ -6,13 +6,13 @@ AppleScript handler to return boolean that PDF or not.
 
 PDF か否かを判定する AppleScript ハンドラ。
 
-# Description
+## Description
 
 Give an alias to the argument. Determines with the extension and the beginning "%PDF-" of the data.
 
 引数にはエイリアスを与える。拡張子およびファイル先頭の %PDF- で判定する。
 
-# Sample (ja)
+## Sample (ja)
 
 ドロップされたファイルが PDF か否かを判定するドロップレット。
 
